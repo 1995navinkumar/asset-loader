@@ -1,0 +1,18 @@
+{
+  "name": "asset-loader",
+  "version": "1.0.0",
+  "description": "A tiny util to load and manage assets needed for a web page during runtime",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "asset",
+    "loader",
+    "dynamic",
+    "import"
+  ],
+  "author": "1995navinkumar@gmail.com",
+  "license": "ISC"
+}
